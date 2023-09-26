@@ -1,4 +1,4 @@
-#include<math.h>
+#include <math.h>
 #define maximo 10
 int colaLlena();
 int colaVacia();
