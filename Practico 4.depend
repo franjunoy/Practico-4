@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574457445 source:c:\users\santi\desktop\fran c\practico 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colaCircular.h"
+
+1574456930 c:\users\santi\desktop\fran c\practico 4\colacircular.h
+	<math.h>
+
